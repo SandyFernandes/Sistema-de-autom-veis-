@@ -1,34 +1,33 @@
-﻿using Microsoft.VisualBasic;
-using System;
+﻿using System;
 
-namespace CarroCliente
+namespace Cliente
 {
-    class CarroCliente
+    class Cliente
     {
         static void Main(string[] args)
         {
-            CarroCliente carrocliente = new CarroCliente();
-        }
-        private int idcarro;
-        private int idcliente;
-        private string modelo;
-        private string placa;
-        private DateAndTime data;
+            Cliente cliente = new Cliente();
+        }  
         
-
-        public CarroCliente() { }
-
-        public CarroCliente(int idcarro, int idcliente, string modelo, string placa, DateAndTime data)
-        {
-
-            this.idcarro = idcarro;
-            this.idcliente = idcliente;
-            this.modelo = modelo;
-            this.placa = placa;
-            this.data = data;
-        }
+            private int idcliente;
+            private string nome;
+            private string morada;
+            private int telefone;
+            private int idcarro;
 
 
+        public Cliente() { }
 
+            public Cliente(int idcliente, string nome, string morada, int telefone, int idcarro)
+            {
+
+                this.idcliente= idcliente;
+                this.nome = nome;
+                this.morada = morada;
+                this.telefone = telefone;
+                this.idcarro = idcarro;
+
+            }
+     
     }
 }
