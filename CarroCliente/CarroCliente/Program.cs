@@ -5,27 +5,26 @@ namespace CarroCliente
 {
     class CarroCliente
     {
-        static void Main(string[] args)
-        {
-            CarroCliente carrocliente = new CarroCliente();
-        }
-        private int idcarro;
-        private int idcliente;
+      
+        private int idCarro;
+        private Cliente cliente;
         private string modelo;
         private string placa;
-        private DateAndTime data;
+        private string anoModelo;
+        private string anoFabricacao;
         
 
         public CarroCliente() { }
 
-        public CarroCliente(int idcarro, int idcliente, string modelo, string placa, DateAndTime data)
+        public CarroCliente(int idCarro, Cliente cliente, string modelo, string placa , string anoModel. string anoFabricacao;)
         {
 
-            this.idcarro = idcarro;
-            this.idcliente = idcliente;
+            this.idcarro = idCarro;
+            this.cliente = cliente;
             this.modelo = modelo;
             this.placa = placa;
-            this.data = data;
+            this.anoModelo = anoModelo;
+            this.anoFabricacao=anoFabricacao;
         }
 
 
