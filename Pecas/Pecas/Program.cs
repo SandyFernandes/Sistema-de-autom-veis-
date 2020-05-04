@@ -1,33 +1,26 @@
 ﻿using System;
 
-namespace Pecas
+namespace Peca
 {
-    class Pecas
+    class Peca
     {
-        static void Main(string[] args)
-        {
-            Pecas pecas = new Pecas();
-        }
-
-        private int idpecas;
-        private int idfuncionario;
+        private int idPeca;
+        private int idFuncionario;
         private string nome;
         private string designacao;
-        private double custounitario;
-        private double quantidade;
+        private double custoUnitario;
 
 
-        public Pecas() { }
+        public Peca() { }
 
-        public Pecas(int idpecas, int idfuncionario, string nome, string designacao, double custounitario, double quantidade)
+        public Peca(int idPeca, int idFuncionario, string nome, string designacao, double custoUnitario)
         {
 
-            this.idpecas = idpecas;
-            this.idfuncionario = idfuncionario;
+            this.idpeca = idPecas;
+            this.idfuncionario = idFuncionario;
             this.nome = nome;
             this.designacao = designacao;
-            this.custounitario = custounitario;
-            this.quantidade = quantidade;
+    
         }
 
 
