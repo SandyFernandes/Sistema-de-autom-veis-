@@ -1,0 +1,13 @@
+C:\Users\sandy\source\repos\Pecas\Pecas\bin\Debug\netcoreapp3.1\Pecas.exe
+C:\Users\sandy\source\repos\Pecas\Pecas\bin\Debug\netcoreapp3.1\Pecas.deps.json
+C:\Users\sandy\source\repos\Pecas\Pecas\bin\Debug\netcoreapp3.1\Pecas.runtimeconfig.json
+C:\Users\sandy\source\repos\Pecas\Pecas\bin\Debug\netcoreapp3.1\Pecas.runtimeconfig.dev.json
+C:\Users\sandy\source\repos\Pecas\Pecas\bin\Debug\netcoreapp3.1\Pecas.dll
+C:\Users\sandy\source\repos\Pecas\Pecas\bin\Debug\netcoreapp3.1\Pecas.pdb
+C:\Users\sandy\source\repos\Pecas\Pecas\obj\Debug\netcoreapp3.1\Pecas.csprojAssemblyReference.cache
+C:\Users\sandy\source\repos\Pecas\Pecas\obj\Debug\netcoreapp3.1\Pecas.csproj.CoreCompileInputs.cache
+C:\Users\sandy\source\repos\Pecas\Pecas\obj\Debug\netcoreapp3.1\Pecas.AssemblyInfoInputs.cache
+C:\Users\sandy\source\repos\Pecas\Pecas\obj\Debug\netcoreapp3.1\Pecas.AssemblyInfo.cs
+C:\Users\sandy\source\repos\Pecas\Pecas\obj\Debug\netcoreapp3.1\Pecas.dll
+C:\Users\sandy\source\repos\Pecas\Pecas\obj\Debug\netcoreapp3.1\Pecas.pdb
+C:\Users\sandy\source\repos\Pecas\Pecas\obj\Debug\netcoreapp3.1\Pecas.genruntimeconfig.cache
